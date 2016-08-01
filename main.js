@@ -11,6 +11,7 @@ let mainWindow
 
 function createWindow () {
   // Create the browser window.
+
   mainWindow = new BrowserWindow({
     backgroundColor: '#ffdf43',
     titleBarStyle : 'hidden-inset'

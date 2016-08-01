@@ -1,3 +1,18 @@
-#orb-banner {
+#orb-banner, #blq-global, #orb-footer {
     display: none;
+}
+
+header.global-header {
+    height: 82px;
+}
+
+header.global-header .gel-wrap {
+    bottom: 10px;
+    position: absolute;
+    width: 100%;
+}
+
+header.global-header .global-header__logo {
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
 }
